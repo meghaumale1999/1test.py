@@ -1,0 +1,15 @@
+3. One-Line Answers
+
+A.What is reverse-i-search in a Linux Terminal?
+Ans:-Use reverse-i-search to find past commands Besides using tab-autocompleting aggressively, 
+I also use reverse-i-search all the time to search my command history.
+
+B.How do you list out the hidden directories using Linuxcommand line tool?
+Ans:-ls -a will list all files including hidden files.
+
+C.How comfortable are you with using Linux-based OS like Ubuntu,Cento,etc?
+Ans:- Not at all Comfortable with Linux-based OS like Ubuntu,Cento,etc?
+
+D.Have you ever used servers to host any web applications in the past?If yes,what services
+Ans:-No
+
